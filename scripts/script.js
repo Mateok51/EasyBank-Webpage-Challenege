@@ -1,3 +1,4 @@
+
 function openMenu(){
     let menu = document.getElementById("navigation-links");
     let darkBg = document.getElementById("dark-bg");
